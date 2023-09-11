@@ -190,9 +190,46 @@
     border-bottom-right-radius: 20px!important;
     cursor: pointer;
   }
-  
+  .footer{
+    background-color: #054E9E;
+    color:white;
+  }
+  .footer-one p{
+    font-size:13px;
+  }
+  .sp{
+    border-top: 2px solid #FFC107;
+    width:50%!important;
+  }
+  .spp{
+    border-top: 2px solid #FFC107;
+    width:20%!important;
+  }
+  .sp-item a{
+    text-decoration: none;
+    color:white;
+  }
+  .sp-item a:hover{
+    color:#FFC107;
+  }
+  .social-link i{
+    background-color: #FFC107;
+    padding:10px;
+    border-radius: 50%;
+    margin-right:10px;
+    font-weight: 600;
+  }
+  .social-link .fa-facebook-f{
+    padding:10px 12px!important;
+  }
+.aff-imgs img,.credit-imgs img{
+  width:60px;
+  height: 60px;
+  background-color: white;
+  padding:5px;
+  border-radius: 10px;
+}
 
-  
   
   
   
