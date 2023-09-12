@@ -250,6 +250,15 @@
   background-color: #F1C40F!important;
 
 }
+input::placeholder{
+  color:#636B82!important;
+  font-weight:400;
+  font-size:14px;
+}
+.form-control:focus {
+  border: 1px solid transparent!important;
+  outline: none!important;
+}
   
   
 @media(max-width:992px){
