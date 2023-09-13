@@ -255,9 +255,8 @@ input::placeholder{
   font-weight:400;
   font-size:14px;
 }
-.form-control:focus {
-  border: 1px solid transparent!important;
-  outline: none!important;
+input:focus {
+  outline: none; /* Remove the outline on focus */
 }
   
   
